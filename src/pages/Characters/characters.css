@@ -1,0 +1,14 @@
+.alert{
+    color:darkblue;
+    background-color: aliceblue;
+}
+
+.btn-filter{
+    display: none; 
+}
+.filters-area{
+    padding-top: 100px;
+    /* background-color: #344d67; */
+    color: #6eccaf;
+
+}

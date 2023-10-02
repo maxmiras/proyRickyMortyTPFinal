@@ -1,0 +1,34 @@
+.h2form, .h3form{
+    text-align: center;
+    color: #223142;
+}
+.main-sec-form{
+  background-color: rgba(92,117,146,.9);
+   
+    
+}
+.mainform{
+    padding-top: 100px;
+}
+
+.form-label{
+    color: #223142;
+}
+input, textarea{
+    border-radius: 5px;
+
+}
+textarea{
+    height: 80px;
+}
+.botonform{
+    background-color: #344d67;
+    border: none;
+}
+
+.botonform:hover{
+    background-color: #6eccaf;
+    color: #344d67;
+    
+    
+}
